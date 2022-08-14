@@ -1,6 +1,6 @@
 # [클론코딩] gmarket_clonecoding
 
-![반응형](https://user-images.githubusercontent.com/104907318/184522867-5b1399ca-4422-47fa-9997-62a2980e0557.png)
+![gmarket](https://user-images.githubusercontent.com/104907318/184523207-746d9152-c2e1-4122-8ca8-079aea5bdcbb.png)
 
 **요약** :
 
